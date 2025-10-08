@@ -1,6 +1,6 @@
 # About me and cloudtools.cult-x.io
 
-Hello there! I'm Werner, and I'm passionate about the limitless possibilities that the cloud offers. At SVA, I've dedicated my time and expertise to delve into the intricate world of cloud computing with Microsoft Azure, and it's been an exhilarating journey.
+Hello there! I'm Werner, and I'm passionate about the limitless possibilities that the cloud offers. In my professional career, I've dedicated my time and expertise to delve into the intricate world of cloud computing with Microsoft Azure, and it's been an exhilarating journey.
 
 ## What I Do
 
